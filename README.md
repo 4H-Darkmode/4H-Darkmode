@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Kakhi: <br>✨ Creating projects since 2023...<br>📚 I'm currently learning APIs and WebSockets...<br>🎯 Goals: Just doing fun projects...<br>🎲 Fun fact: I mostly create web apps...</p>
+<p align="left">Kakhi: <br>✨ Creating projects since 2023...<br>🎯 Goals: Just doing fun projects...<br>🎲 Fun fact: I mostly create web apps...</p>
 
 ###
 
