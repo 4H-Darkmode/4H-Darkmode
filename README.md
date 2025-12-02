@@ -37,6 +37,15 @@
   <div>
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </div>
+
+  <br>
+
+  <p><i>Also familiar with</i></p>
+  <div>
+    <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20Automate-3A96DD?style=for-the-badge&logo=powerautomate&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </div>
   
   <br>
   
