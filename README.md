@@ -5,7 +5,7 @@
     Building modern digital experiences with code. <br>
     Exploring the intersection of creativity and logic.
   </p>
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <a href="kakhi.net" target="_blank">
     <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <br><br>
