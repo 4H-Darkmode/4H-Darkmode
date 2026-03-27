@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Kakhi</h1>
-  <h3>Web Developer based in Switzerland 🇨🇭</h3>
+  <h3>Full Stack Developer based in Switzerland 🇨🇭</h3>
   <p>
     Building modern digital experiences with code. <br>
     Exploring the intersection of creativity and logic.
